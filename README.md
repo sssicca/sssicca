@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sssicca
-- 👀 I’m interested in ...
+- 👀 I’m interested in Haptic，chai3D and unity3D.
 - 🌱 I’m currently learning ...
 - 💞️ 
 - 📫 
